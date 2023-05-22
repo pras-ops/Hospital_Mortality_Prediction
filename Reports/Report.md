@@ -18,7 +18,7 @@ The predictors of in-hospital mortality for intensive care units (ICU)-admitted 
 	- Model Selection and Evaluation
 	- Using the XG Boost Classifier model
 	- Plotting the ROC and Accuracy curves
-	- ![RocCurveDisplay](https://github.com/pras-ops/Hospital_Mortality_Prediction/assets/56476064/de804ab5-c0cd-46c6-9998-fcaa615e6402)
+ ![RocCurveDisplay](https://github.com/pras-ops/Hospital_Mortality_Prediction/assets/56476064/de804ab5-c0cd-46c6-9998-fcaa615e6402)
 
 
 ## Data Description
