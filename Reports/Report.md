@@ -18,6 +18,7 @@ The predictors of in-hospital mortality for intensive care units (ICU)-admitted 
 	- Model Selection and Evaluation
 	- Using the XG Boost Classifier model
 	- Plotting the ROC and Accuracy curves
+	- RocCurveDisplay.png
 ## Data Description
 The project utilizes a dataset with various attributes that can help in predicting the mortality rate. The dataset includes features such as age, gender, BMI, presence of hypertension, atrial fibrillation, CHD with no MI, diabetes, and many more. The dependent variable is the outcome indicating whether a person survived or not.
 
