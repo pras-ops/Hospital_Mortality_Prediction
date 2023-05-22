@@ -22,7 +22,7 @@ The project directory is structured as follows:
  * [data](./Data)
    * [raw_data](./Data/Raw_data)
    * [processed_data](./data/processed_data)
- * [notebooks](./Notebooks)
+ * [Notebooks](./Notebooks)
    * [Data_Analysis.ipynb](./Notebooks/Data Analysis.ipynb) 
    * [Feature_Engineering.ipynb](./Notebooks/Data Preprocessing.ipynb)
    * [model_training.ipynb](./Notebooks/Model Development.ipynb)
