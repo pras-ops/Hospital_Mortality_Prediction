@@ -24,10 +24,7 @@ The predictors of in-hospital mortality for intensive care units (ICU)-admitted 
 The project utilizes a dataset with various attributes that can help in predicting the mortality rate. 
 The dataset includes features such as:
 ### age 
-![Age] (https://github.com/pras-ops/Hospital_Mortality_Prediction/assets/56476064/6951f68c-8166-4958-9bf8-016ffc6445f9)
-
-### gender 
-![BMI](https://github.com/pras-ops/Hospital_Mortality_Prediction/assets/56476064/056823eb-e729-4b24-a7a7-c9a54e32c753)
+![Age](https://github.com/pras-ops/Hospital_Mortality_Prediction/assets/56476064/6951f68c-8166-4958-9bf8-016ffc6445f9)
 
 ### BMI
 ![BMI](https://github.com/pras-ops/Hospital_Mortality_Prediction/assets/56476064/82e9cc42-684c-44c1-bb46-467aead50448)
